@@ -1,5 +1,8 @@
 [
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E6%B6%88%E8%B4%B9930.9%E5%85%83%E9%81%AD%E5%8F%8D%E5%90%91%E6%8A%B9%E9%9B%B6%23&t=31&band_rank=1&Refer=top",
     "title": "市监局回应消费930.9元遭反向抹零"
@@ -2448,7 +2451,10 @@
     "url": "/weibo?q=%23%E5%8C%97%E6%96%B9%E4%BA%BA%E5%B7%B2%E7%BB%8F%E6%90%AC%E5%87%BA%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=50&Refer=top",
     "title": "北方人已经搬出了羽绒服"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E4%BB%A5%E5%89%8D%E8%A7%89%E5%BE%97%E6%99%9A%E4%B8%8A%E4%B9%9D%E7%82%B9%E5%B0%B1%E5%BE%88%E6%99%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top",
     "title": "以前觉得晚上九点就很晚了"
