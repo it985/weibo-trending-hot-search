@@ -6,7 +6,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 07 2024 18:13:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 07 2024 19:11:51 GMT+0800 (China Standard Time) -->
 
 1. [习近平挂念这里的雨](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8C%82%E5%BF%B5%E8%BF%99%E9%87%8C%E7%9A%84%E9%9B%A8%23&Refer=new_time)
 1. [高考数学](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=1&Refer=top)
