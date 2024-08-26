@@ -2,12 +2,7 @@
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import type { Word } from "./types.ts";
 
-import {
-  createArchive,
-  createList,
-  createReadme,
-  mergeWords,
-} from "./utils.ts";
+import { createArchive, createList, createReadme, mergeWords } from "./utils.ts";
 
 Deno.test("mergeWords", function (): void {
   const words1: Word[] = [];
@@ -25,7 +20,6 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { title: "foo", url: "bar" },
       { title: "foo", url: "hello" },
     ],
   );
@@ -36,7 +30,6 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words3, words5),
     [
-      { title: "foo", url: "hello" },
       { title: "foo", url: "bar" },
       { title: "hello", url: "world" },
     ],
